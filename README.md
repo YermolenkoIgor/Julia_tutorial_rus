@@ -20,10 +20,11 @@ Julia была разработана в знаменитом MIT. Первый 
 Скачав фиксер, лучше обеспечьте ограничение на выход в интернет, а уж потом обновляйте, не то все узнают какая у вас недействительная копия Windows. Это обновление нужно, чтоб предотвратить проблемы с системой контроля версий *git*, иначе не будет возможности докачивать дополнительные пакеты, а без них будет тяжко.
 
 После установки можно сразу приступать к работе: Вам будет доступен интерпретатор (REPL) в котором всё будет происходить в консольном режиме. 
+
 Но нам нужен Jupyter
-[Подробно об установке](https://devpractice.ru/python-lesson-1-install/)
-[Работа с Jupyter Notebook](https://devpractice.ru/python-lesson-6-work-in-jupyter-notebook/)
-[Как настроить Jupyter Notebook для Python 3](https://tproger.ru/translations/jupyter-notebook-python-3/)
+* [Подробно об установке](https://devpractice.ru/python-lesson-1-install/)
+* [Работа с Jupyter Notebook](https://devpractice.ru/python-lesson-6-work-in-jupyter-notebook/)
+* [Как настроить Jupyter Notebook для Python 3](https://tproger.ru/translations/jupyter-notebook-python-3/)
 ### 1
 Использовать [IJulia](https://github.com/JuliaLang/IJulia.jl). Для этого запустите *julia* и в открывшейся консоли наберите команды
 ```
