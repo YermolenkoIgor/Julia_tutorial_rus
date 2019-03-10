@@ -61,3 +61,12 @@ using IJulia
 notebook()
 ```
 Скачав файлы туториала, открывайте их с помощью своего Юпитера (по умолчанию в папке Downloads) и всё, можете начинать изучение!
+
+Можно попробовать **Jupyter online**
+* https://juliabox.com
+* https://cocalc.com/doc/jupyter-notebook.html
+* https://paiza.cloud/en/jupyter-notebook-online
+## Вариант без Юпитера
+- Открываете руководство здесь на гитхабе
+- Читаете теорию и копируете примеры в Julia REPL 
+- Набираете домашние задания в *Juno* или в [Sublime text](https://sublimetext3.ru)
