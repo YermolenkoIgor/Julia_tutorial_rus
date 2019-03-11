@@ -3,6 +3,7 @@
 
 Julia: руководство для начинающих
 * За основу используется https://github.com/JuliaComputing/JuliaBoxTutorials
+* Задания для закрепления материала из http://pythontutor.ru/lessons/inout_and_arithmetic_operations/
 * Еще полезной информации на русском ищите на https://habr.com/ru/hub/julia/
 * Документация по языку https://docs.julialang.org/en/v1/index.html
 
