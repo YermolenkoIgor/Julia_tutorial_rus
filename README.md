@@ -70,4 +70,4 @@ notebook()
 ## Вариант без Юпитера
 - Открываете руководство здесь на гитхабе
 - Читаете теорию и копируете примеры в Julia REPL 
-- Набираете домашние задания в *Juno* или в [Sublime text](https://sublimetext3.ru)
+- Набираете домашние задания в [Juno](https://juliacomputing.com/products/juliapro) или в [Sublime text](https://sublimetext3.ru)
