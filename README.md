@@ -6,6 +6,7 @@ Julia: руководство для начинающих
 * Задания для закрепления материала из http://pythontutor.ru/lessons/inout_and_arithmetic_operations/
 * Еще полезной информации на русском ищите на https://habr.com/ru/hub/julia/
 * Документация по языку https://docs.julialang.org/en/v1/index.html
+* 1002 задачи с примерами решений на разных языках http://rosettacode.org/wiki/Category:Julia
 
 **Julia** - высокоуровневый, высокопроизводительный язык программирования с динамической типизацией для математических вычислений. Синтаксис похож на матлабово семейство, язык написан на Си, С++ и Scheme, есть возможность вызова Сишных библиотек. 
 
@@ -68,6 +69,6 @@ notebook()
 * https://cocalc.com/doc/jupyter-notebook.html
 * https://paiza.cloud/en/jupyter-notebook-online
 ## Вариант без Юпитера
-- Открываете руководство здесь на гитхабе
+- Открываете руководство здесь на гитхабе (учтите, что формулы и вёрстка здесь частенько плывёт)
 - Читаете теорию и копируете примеры в Julia REPL 
 - Набираете домашние задания в [Juno](https://juliacomputing.com/products/juliapro) или в [Sublime text](https://sublimetext3.ru)
